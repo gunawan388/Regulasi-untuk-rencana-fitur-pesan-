@@ -1,4 +1,6 @@
 tambah fitur admin 
 javascript 
+*es6
+*fremock 
 fremock
 css
